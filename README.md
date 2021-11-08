@@ -1,4 +1,20 @@
-### Hi there 👋
+### Hey there :wave:
+My name's Tatyana and I like to work with data and find patterns in it. 
+
+### About me :information_desk_person:
+
+I am an aspiring Data Scientist from Saint Petersburg, Russia.
+I am proficient with Python, SQL and several DS and ML libraries among which are Pandas, PyTorch, OpenCV and more.
+
+My passion to explore and try new things in different directions led me to get experience in Data Analysis, Image Processing, NLP and GAN, but I prefer working with VR and NLP. 
+
+I constantly refine my skills and learn something new. My current focus is on learning algorithms of neural networks and I also study for Masters in Informatics and Computer Engineering.
+
+
+
+
+
+
 
 <!--
 **tstrizhakova/tstrizhakova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
