@@ -4,7 +4,7 @@ My name's Tatyana and I like to work with data and find patterns in it.
 
 ## About me :information_desk_person:
 
-:v: I am an aspiring Data Scientist from Saint Petersburg, Russia. I am proficient with Python, SQL and several DS and ML libraries among which are Pandas, PyTorch, OpenCV and more.
+:v: I am an aspiring Data Scientist from Saint Petersburg, Russia. I am proficient with Python, SQL and several DS and ML libraries among which are Pandas, NumPy, PyTorch, OpenCV and more.
 
 ✨ My passion to explore and try new things in different directions led me to get experience in Data Analysis, Image Processing, NLP and GAN, but I prefer working with VR and NLP. 
 
